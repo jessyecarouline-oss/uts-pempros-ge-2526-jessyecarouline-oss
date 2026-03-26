@@ -79,8 +79,7 @@ report
 
 ```
 B001|Keyboard|10|150000.0
-B002|Mouse|5|50000.0
-```
+B002|Mouse|5|50000.0```
 
 ---
 
@@ -97,6 +96,7 @@ Beberapa kasus yang sering terjadi:
 ## Format Perintah
 
 ```
+
 ship#<id>#<quantity>
 restock#<id>#<quantity>
 ```
